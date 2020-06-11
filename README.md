@@ -2,7 +2,7 @@
 
 <!-- Insira aqui a Flag com sua URL do Travis -->
 
-[![Build Status](https://travis-ci.org/MatheusFerrazz/DevOpsLab_Pipeline.svg?branch=master)](https://travis-ci.org/MatheusFerrazz/DevOpsLab_Pipeline)
+[![Build Status](https://travis-ci.com/matheusfarias789/DevOpsLab-Pipeline.svg?branch=master)](https://travis-ci.com/matheusfarias789/DevOpsLab-Pipeline)
 
 <h1 align="center">
   <img src=".files/devops.png" alt="DevOps na Prática">
