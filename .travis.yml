@@ -1,10 +1,10 @@
 language: node_js
 node_js:
-- node
+  - node
 sudo: false
 script:
-- npm test
-- travis encrypt $(heroku auth:token) --add deploy.api_key --org
+  - npm test
+
 deploy:
   provider: heroku
   api_key:
